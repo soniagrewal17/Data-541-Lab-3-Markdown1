@@ -5,7 +5,7 @@ the image embed:
 
 !["alt text"](https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png "UBCO MDS 2018")
 
-Alternatively, you may use the HTML <img> tag isntead. This can give you greater control over sizing of yout image:
+Alternatively, you may use the HTML <img> tag isntead. This can give you greater control over sizing of your image:
 
 With 25% width:
 
