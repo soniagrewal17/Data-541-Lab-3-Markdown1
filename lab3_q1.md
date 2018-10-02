@@ -16,12 +16,13 @@ The Markdown syntax is a way of **structuring** documents and providing styling 
 Common GitHub Markdown Text Directives
 -------------
 
-| Directive | Use |Example|
-| ------ | ------ |------|
+| Directive | Use | Example |
+| ----| ----|----|
 | * | Italic | *italic*|
 | ** | Bold | **Bold**|
 | ~~ | Strikethrough | ~~Strikethrough~~|
-| *** | Horizontal Rule | ***Horizontal Rule***|
+| *** | Horizontal Rule | ***Horizontal Rule*** |
+
 [Sometimes, you'll want to escape a markdown symbol](https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting)
 
 
