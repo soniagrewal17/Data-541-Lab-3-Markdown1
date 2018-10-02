@@ -1,9 +1,9 @@
 # An Example of Markdown
 
-## The simplicity  of Markdown
+## The Simplicity  of Markdown
 
 
-The Markdown syntax is a way of **structuring** documents and providing styling without having to use HTML or Cascading Style Sheets. The name is a play on the term *markup*, which is the process of preparing documents for printing through the process of editing and layout.
+The Markdown syntax is a way of **structuring** documents and providing styling without having to use HTML or Cascading Style Sheets.The name is a play on the term *markup*, which is the process of preparing documents for printing through the process of editing and layout.
 
 ## Features of GitHub Markdown
 
